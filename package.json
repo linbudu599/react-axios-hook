@@ -68,7 +68,7 @@
     "rollup-plugin-node-resolve": "^5.2.0",
     "rollup-plugin-typescript2": "^0.25.3",
     "standard-version": "7.0.1",
-    "typescript": "^3.7.3"
+    "typescript": "^3.9.7"
   },
   "husky": {
     "hooks": {
